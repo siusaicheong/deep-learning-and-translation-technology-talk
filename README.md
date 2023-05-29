@@ -8,7 +8,7 @@ This work is intended for a book talk on the [Routledge Encyclopedia of Translat
 
 ## Download
 
-Click [here]([https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4448091](https://github.com/siusaicheong/deep-learning-and-translation-technology-talk/blob/main/Deep%20Learning%20and%20Translation%20Technology_siusaicheong.pdf) to view/download the work.
+Click [here](https://github.com/siusaicheong/deep-learning-and-translation-technology-talk/blob/main/Deep%20Learning%20and%20Translation%20Technology_siusaicheong.pdf) to view/download the work.
 
 ## Citation
 
